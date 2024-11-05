@@ -17,7 +17,7 @@
         "https://cdn2.unrealengine.com/egs-fallguys-mediatonic-g1a-01-1920x1080-97cd3dd7370b.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 2300000,
-      "evaluate": "4",
+      "evaluate": 4,
       "logo": "https://cdn2.unrealengine.com/fgss04-logo-400x400-400x400-506f241c8954.png?resize=1&w=480&h=270&quality=medium",
       "description": "Fall Guys is a free, cross-platform massively multiplayer party royale game. Clumsily compete in absurd obstacle courses with friends or build your very own chaotic course to share with the community.",
       "genre": "Action",
@@ -46,7 +46,7 @@
         "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-02-1920x1080-1295749a2ef4.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 462000,
-      "evaluate": "5",
+      "evaluate": 5,
       "logo": "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-ic1-400x400-39ecddf1cc77.png?resize=1&w=480&h=270&quality=medium",
       "description": "The most awarded game of a generation, now enhanced for the next! Experience The Witcher 3: Wild Hunt and its expansions in this definitive collection, boasting improved visuals and performance, new additional content, Photo Mode, and more!",
       "genre": "Advantage",
@@ -75,7 +75,7 @@
         "https://cdn2.unrealengine.com/4rdr1-pc-release-006-3840x2160-c09fde7bd7e7.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 1400000,
-      "evaluate": "5",
+      "evaluate": 5,
       "logo": "https://cdn2.unrealengine.com/rdr-pc-epic-gamelogo-400x400-deliv-400x400-ec70f5bfea2e.png?resize=1&w=480&h=270&quality=medium",
       "description": "Experience the story of former outlaw John Marston as he tracks down the last remaining members of the notorious Van der Linde Gang in the PC debut of the critically acclaimed predecessor to Red Dead Redemption 2.",
       "genre": "Open World",
@@ -104,7 +104,7 @@
         "https://cdn1.epicgames.com/spt-assets/c31b6b64a432407b993eed09cd4f1abb/shardbound-qzdt1.png?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 200000,
-      "evaluate": "3",
+      "evaluate": 3,
       "logo": "https://cdn1.epicgames.com/spt-assets/c31b6b64a432407b993eed09cd4f1abb/shardbound-logo-re2kf.png?resize=1&w=480&h=270&quality=medium",
       "description": "Embark on a journey across a cool little world, mastering the art of the Card Clash card game. You'll face off against six legendary opponents to earn your ticket to the World Card Game Tournament!",
       "genre": "Card Game",
@@ -133,7 +133,7 @@
         "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-05-1920x1080-1e028de5e661.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 373000,
-      "evaluate": "2",
+      "evaluate": 2,
       "logo": "https://cdn2.unrealengine.com/egs-greeneye-sloclap-ic1-400x400-7f5493d6af29.png?resize=1&w=480&h=270&quality=medium",
       "description": "Sifu is a realistic third-person brawler with tight Kung Fu combat mechanics and cinematic martial arts action embarking you on a path for revenge.",
       "genre": "indie",
@@ -162,7 +162,7 @@
         "https://cdn1.epicgames.com/offer/dda64c2956b54f1ba3cd97f6aaee775f/EGS_TotalWarWARHAMMERIIIForgeoftheChaosDwar_SEGA_DLC_G1A_01_1920x1080-48f4377e8a0341560414d54a12aaf7a6?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 440000,
-      "evaluate": "4",
+      "evaluate": 4,
       "logo": "https://cdn1.epicgames.com/offer/dda64c2956b54f1ba3cd97f6aaee775f/EGS_TotalWarWARHAMMERIIIForgeoftheChaosDwar_SEGA_DLC_IC1_200x200-4499d1470604fe10b066741526d2db76?resize=1&w=480&h=270&quality=medium",
       "description": "The Forge of the Chaos Dwarfs introduces a new brutal race, into Total War: WARHAMMER III, usable in both the Realm of Chaos and Immortal Empires campaigns. Expand, exploit, and dominate as Astragoth Ironhand, Drazhoath the Ashen, and Zhatan the Black.",
       "genre": "Space",
@@ -191,7 +191,7 @@
         "https://cdn2.unrealengine.com/egs-godofwar-santamonicastudio-g1a-03-1920x1080-65b80475ae32.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 1150000,
-      "evaluate": "5",
+      "evaluate": 5,
       "logo": "https://cdn2.unrealengine.com/egs-godofwar-santamonicastudio-ic1-400x400-5819bbf696c5.png?resize=1&w=480&h=270&quality=medium",
       "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.",
       "genre": "Fantasy",
@@ -220,7 +220,7 @@
         "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_1920x1080_Hero-Carousel_V06-1920x1080-1503e4b1320d5652dd4f57466c8bcb79424b3fc0.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 455000,
-      "evaluate": "5",
+      "evaluate": 5,
       "logo": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_400x400_GameLogo-1000x1000-f6c47a98454049a5e63959f7b6f898c4fc22829c.png?resize=1&w=480&h=270&quality=medium",
       "description": "The Grand Theft Auto V: Premium Edition includes the complete GTAV story, Grand Theft Auto Online and all existing gameplay upgrades and content. You’ll also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart your criminal empire in GTA Online.",
       "genre": "Open World",
@@ -249,7 +249,7 @@
         "https://cdn2.unrealengine.com/egs-sonicxshadowgenerations-sonicteam-g1a-02-1920x1080-0d1bcb388311.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 830000,
-      "evaluate": "3",
+      "evaluate": 3,
       "logo": "https://cdn2.unrealengine.com/epic-ssgenerations-basegame-productlogo-400x400-400x400-81309d9788c5.png?resize=1&w=480&h=270&quality=medium",
       "description": "Shadow the Hedgehog is back and teaming up with Classic and Modern Sonic in SONIC X SHADOW GENERATIONS, an all-new collection featuring two unique experiences!",
       "genre": "Action",
@@ -278,7 +278,7 @@
         "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-14-02-24-22-1920x1080-810476afc100.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 971000,
-      "evaluate": "5",
+      "evaluate": 5,
       "logo": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-ic1-400x400-82b90aa9a275.png?resize=1&w=480&h=270&quality=medium",
       "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
       "genre": "Advantage",
@@ -307,7 +307,7 @@
         "https://cdn2.unrealengine.com/egs-fallguys-mediatonic-g1a-01-1920x1080-97cd3dd7370b.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 2300000,
-      "evaluate": "4",
+      "evaluate": 4,
       "logo": "https://cdn2.unrealengine.com/fgss04-logo-400x400-400x400-506f241c8954.png?resize=1&w=480&h=270&quality=medium",
       "description": "Fall Guys is a free, cross-platform massively multiplayer party royale game. Clumsily compete in absurd obstacle courses with friends or build your very own chaotic course to share with the community.",
       "genre": "Action",
@@ -336,7 +336,7 @@
         "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-02-1920x1080-1295749a2ef4.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 462000,
-      "evaluate": "5",
+      "evaluate": 5,
       "logo": "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-ic1-400x400-39ecddf1cc77.png?resize=1&w=480&h=270&quality=medium",
       "description": "The most awarded game of a generation, now enhanced for the next! Experience The Witcher 3: Wild Hunt and its expansions in this definitive collection, boasting improved visuals and performance, new additional content, Photo Mode, and more!",
       "genre": "Advantage",
@@ -365,7 +365,7 @@
         "https://cdn2.unrealengine.com/4rdr1-pc-release-006-3840x2160-c09fde7bd7e7.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 1400000,
-      "evaluate": "5",
+      "evaluate": 5,
       "logo": "https://cdn2.unrealengine.com/rdr-pc-epic-gamelogo-400x400-deliv-400x400-ec70f5bfea2e.png?resize=1&w=480&h=270&quality=medium",
       "description": "Experience the story of former outlaw John Marston as he tracks down the last remaining members of the notorious Van der Linde Gang in the PC debut of the critically acclaimed predecessor to Red Dead Redemption 2.",
       "genre": "Open World",
@@ -394,7 +394,7 @@
         "https://cdn1.epicgames.com/spt-assets/c31b6b64a432407b993eed09cd4f1abb/shardbound-qzdt1.png?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 200000,
-      "evaluate": "3",
+      "evaluate": 3,
       "logo": "https://cdn1.epicgames.com/spt-assets/c31b6b64a432407b993eed09cd4f1abb/shardbound-logo-re2kf.png?resize=1&w=480&h=270&quality=medium",
       "description": "Embark on a journey across a cool little world, mastering the art of the Card Clash card game. You'll face off against six legendary opponents to earn your ticket to the World Card Game Tournament!",
       "genre": "Card Game",
@@ -423,7 +423,7 @@
         "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-05-1920x1080-1e028de5e661.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 373000,
-      "evaluate": "2",
+      "evaluate": 2,
       "logo": "https://cdn2.unrealengine.com/egs-greeneye-sloclap-ic1-400x400-7f5493d6af29.png?resize=1&w=480&h=270&quality=medium",
       "description": "Sifu is a realistic third-person brawler with tight Kung Fu combat mechanics and cinematic martial arts action embarking you on a path for revenge.",
       "genre": "indie",
@@ -452,7 +452,7 @@
         "https://cdn1.epicgames.com/offer/dda64c2956b54f1ba3cd97f6aaee775f/EGS_TotalWarWARHAMMERIIIForgeoftheChaosDwar_SEGA_DLC_G1A_01_1920x1080-48f4377e8a0341560414d54a12aaf7a6?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 440000,
-      "evaluate": "4",
+      "evaluate": 4,
       "logo": "https://cdn1.epicgames.com/offer/dda64c2956b54f1ba3cd97f6aaee775f/EGS_TotalWarWARHAMMERIIIForgeoftheChaosDwar_SEGA_DLC_IC1_200x200-4499d1470604fe10b066741526d2db76?resize=1&w=480&h=270&quality=medium",
       "description": "The Forge of the Chaos Dwarfs introduces a new brutal race, into Total War: WARHAMMER III, usable in both the Realm of Chaos and Immortal Empires campaigns. Expand, exploit, and dominate as Astragoth Ironhand, Drazhoath the Ashen, and Zhatan the Black.",
       "genre": "Space",
@@ -481,7 +481,7 @@
         "https://cdn2.unrealengine.com/egs-godofwar-santamonicastudio-g1a-03-1920x1080-65b80475ae32.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 1150000,
-      "evaluate": "5",
+      "evaluate": 5,
       "logo": "https://cdn2.unrealengine.com/egs-godofwar-santamonicastudio-ic1-400x400-5819bbf696c5.png?resize=1&w=480&h=270&quality=medium",
       "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.",
       "genre": "Fantasy",
@@ -510,7 +510,7 @@
         "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_1920x1080_Hero-Carousel_V06-1920x1080-1503e4b1320d5652dd4f57466c8bcb79424b3fc0.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 455000,
-      "evaluate": "5",
+      "evaluate": 5,
       "logo": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_400x400_GameLogo-1000x1000-f6c47a98454049a5e63959f7b6f898c4fc22829c.png?resize=1&w=480&h=270&quality=medium",
       "description": "The Grand Theft Auto V: Premium Edition includes the complete GTAV story, Grand Theft Auto Online and all existing gameplay upgrades and content. You’ll also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart your criminal empire in GTA Online.",
       "genre": "Open World",
@@ -539,7 +539,7 @@
         "https://cdn2.unrealengine.com/egs-sonicxshadowgenerations-sonicteam-g1a-02-1920x1080-0d1bcb388311.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 830000,
-      "evaluate": "3",
+      "evaluate": 3,
       "logo": "https://cdn2.unrealengine.com/epic-ssgenerations-basegame-productlogo-400x400-400x400-81309d9788c5.png?resize=1&w=480&h=270&quality=medium",
       "description": "Shadow the Hedgehog is back and teaming up with Classic and Modern Sonic in SONIC X SHADOW GENERATIONS, an all-new collection featuring two unique experiences!",
       "genre": "Action",
@@ -568,7 +568,7 @@
         "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-14-02-24-22-1920x1080-810476afc100.jpg?resize=1&w=480&h=270&quality=medium"
       ],
       "price": 971000,
-      "evaluate": "5",
+      "evaluate": 5,
       "logo": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-ic1-400x400-82b90aa9a275.png?resize=1&w=480&h=270&quality=medium",
       "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
       "genre": "Advantage",
