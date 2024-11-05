@@ -581,7 +581,7 @@
       "discount": "20%"
     }
   ],
-  "genre": [
+  "genres": [
     {
       "id": 1,
       "title": "Action"
