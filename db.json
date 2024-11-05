@@ -580,5 +580,35 @@
       "type": "Game",
       "discount": "20%"
     }
+  ],
+  "genre": [
+    {
+      "id": 1,
+      "title": "Action"
+    },
+    {
+      "id": 2,
+      "title": "Adventure"
+    },
+    {
+      "id": 3,
+      "title": "Card Game"
+    },
+    {
+      "id": 4,
+      "title": "Fantasy"
+    },
+    {
+      "id": 5,
+      "title": "Indie"
+    },
+    {
+      "id": 6,
+      "title": "Open World"
+    },
+    {
+      "id": 7,
+      "title": "Space"
+    }
   ]
 }
