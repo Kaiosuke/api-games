@@ -584,31 +584,39 @@
   "genres": [
     {
       "id": 1,
-      "title": "Action"
+      "title": "Action",
+      "thumbnail": "https://cdn2.unrealengine.com/egs-fallguys-mediatonic-g1a-00-1920x1080-75b891d04ff9.jpg?resize=1&w=480&h=270&quality=medium"
     },
     {
       "id": 2,
-      "title": "Adventure"
+      "title": "Adventure",
+      "thumbnail": "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-01-1920x1080-8869fa6cdc96.jpg?resize=1&w=480&h=270&quality=medium"
     },
     {
       "id": 3,
-      "title": "Card Game"
+      "title": "Card Game",
+      "thumbnail": "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-01-1920x1080-8869fa6cdc96.jpg?resize=1&w=480&h=270&quality=medium"
     },
     {
       "id": 4,
-      "title": "Fantasy"
+      "title": "Fantasy",
+      "thumbnail": "https://cdn2.unrealengine.com/egs-godofwar-santamonicastudio-g1a-01-1920x1080-c84d2a96aea3.jpg?resize=1&w=480&h=270&quality=medium"
     },
     {
       "id": 5,
-      "title": "Indie"
+      "title": "Indie",
+      "thumbnail": "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-04-1920x1080-6a14eae615cc.jpg?resize=1&w=480&h=270&quality=medium"
     },
     {
       "id": 6,
-      "title": "Open World"
+      "title": "Open World",
+      "thumbnail": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_1920x1080_Hero-Carousel_V06-1920x1080-1503e4b1320d5652dd4f57466c8bcb79424b3fc0.jpg?resize=1&w=480&h=270&quality=medium"
     },
+
     {
       "id": 7,
-      "title": "Space"
+      "title": "Space",
+      "thumbnail": "https://cdn1.epicgames.com/offer/dda64c2956b54f1ba3cd97f6aaee775f/EGS_TotalWarWARHAMMERIIIForgeoftheChaosDwar_SEGA_DLC_G1A_00_1920x1080-dabb2e0f99bbd4c32f944dd0cda5080d?resize=1&w=480&h=270&quality=medium"
     }
   ]
 }
